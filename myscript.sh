@@ -57,3 +57,4 @@ echo "The sum of numbers is: $sum"
 dir
 
 bash script.sh
+
