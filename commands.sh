@@ -5,9 +5,9 @@ file="./mydirectory/script.sh"
 directory="./mydirectory"
 cd $file
 
-echo  "show lines"
+echo  "show permissions"
 
-ls -l # show lines
+ls -l # show permissions
 
 
 echo  "Redirected into '$file'"
